@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+
+grammar dexterlanguage;
+
+public <dexterlanguage> = ( <digit> ) +; 
+<digit> = dexter|dex|volume up| volume down| on | off |select|
+ zero | one| two |three | four| five| six|seven |eight | 
+ nine|ten|eleven|twelve|cancel|volume|go back|
+ go back twice|go three|go back four|go back five|in up|in down|get up|wake|wake up|yes|no|sleep|n|not|your|boss|am;

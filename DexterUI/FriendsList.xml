@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Liquid Studio 2019 (https://www.liquid-technologies.com) -->
+<FriendsList>
+    <Friend name = "oldest friend">
+        <FirstName>Matthew</FirstName>
+        <LastName>Scharfe</LastName>
+        <Gender>M</Gender>
+        <BirthDate>20020201</BirthDate>
+        <Height>5.6</Height>
+    </Friend>
+    <Friend name = "G T A Godfather">
+        <FirstName>Adam</FirstName>
+        <LastName>Zuccala</LastName>
+        <Gender>M</Gender>
+        <BirthDate>20020127</BirthDate>
+        <Height>5.7</Height>
+    </Friend>
+    <Friend name = "Outdoors e tree hugger">
+        <FirstName>Emma</FirstName>
+        <LastName>Parsons</LastName>
+        <Gender>F</Gender>
+        <BirthDate>20020618</BirthDate>
+        <Height>5.7</Height>
+    </Friend>
+</FriendsList>

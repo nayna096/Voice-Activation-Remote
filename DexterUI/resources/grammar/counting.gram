@@ -1,0 +1,17 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for English counting example
+ */
+
+grammar counting;
+
+public <counting> = ( <digit> ) +;
+
+<digit> = volume up| volume down| select|television|twelve o five|
+ fourteen | fourteen o one| fourteen o two | fourteen o three | 
+ fourteen o four|fourteen o five|fourteen o six|fourteen o seven|
+  fourteen o eight | fifteen| fifteen o one|fifteen o two|mute|
+  go back three|go back four|go back five|go back|go back twice|
+  up|down;
+  

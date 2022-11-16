@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+
+grammar lights;
+
+public <lights> = ( <digit> ) +; 
+<digit> = dex|dexter|not|noah|dim|brighten;

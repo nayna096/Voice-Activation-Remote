@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+
+grammar dexterlanguage;
+
+public <dexterlanguage> = ( <digit> ) +; 
+<digit> = dexter|dex|volume up| volume down| on | off |select|
+ zero | one| two |three | four| five| six|seven |eight | 
+ nine|ten|eleven|twelve|cancel|volume|go back|
+ go back twice|go three|go back four|go back five|in up|in down|general|get up|wake|wake up|yes|no|sleep|nice to see you|nice to met you|
+ how are you doing |what is good|what is up|how are you doing|what is your job |where were you born|where are you from|where do you live |
+ are we friends|do you have a hobby|you are funny|who is your boss|when were you born|what is your birth date|you are beautiful|how old are you|
+ who are you|i am not your boss|done|friend|break|go|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z;

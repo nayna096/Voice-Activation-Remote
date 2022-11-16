@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Liquid Studio 2019 (https://www.liquid-technologies.com) -->
+<ns1:FriendsDetailList xmlns:ns1="http://TargetNamespace.com/fileService">
+    <ns1:FriendsDetail>
+        <ns1:Friend nickname = "Oldest friend" >
+            <ns1:FirstName>Matthew</ns1:FirstName>
+            <ns1:LastName>Scharfe</ns1:LastName>
+            <ns1:Gender>M</ns1:Gender>
+            <ns1:BirthDate>20020201</ns1:BirthDate>
+            <ns1:Height>5.6</ns1:Height>
+        </Friend>
+        <Friend>
+            <ns1:FirstName>Adam</ns1:FirstName>
+            <ns1:LastName>Zuccala</ns1:LastName>
+            <ns1:Gender>M</ns1:Gender>
+            <ns1:BirthDate>20020127</ns1:BirthDate>
+            <ns1:Height>5.7</ns1:Height>
+        </Friend>
+        <ns1:Friend>
+            <ns1:FirstName>Emma</ns1:FirstName>
+            <ns1:LastName>Parsons</ns1:LastName>
+            <ns1:Gender>F</ns1:Gender>
+            <ns1:BirthDate>20020618</ns1:BirthDate>
+            <ns1:Height>5.7</ns1:Height>
+        </ns1:Friend>
+    </ns1:FriendsDetail>
+</ns1:FriendsDetailList>
